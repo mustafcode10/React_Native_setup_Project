@@ -1,1 +1,1 @@
-# React_Native_setup_Project
+// Trade Mobile App.
